@@ -55,10 +55,11 @@ git clone https://github.com/s3nafps/JobTrackr.git
 
 ## Screenshots
 
-<!-- Add your screenshots here -->
-| Dashboard | Applications | Details |
-|-----------|--------------|---------|
-| ![Dashboard](screenshots/dashboard.png) | ![Applications](screenshots/applications.png) | ![Details](screenshots/details.png) |
+<p align="center">
+  <img src="screenshots/dashboard.png" width="250" alt="Dashboard"/>
+  <img src="screenshots/applications.png" width="250" alt="Applications"/>
+  <img src="screenshots/details.png" width="250" alt="Details"/>
+</p>
 
 ## Project Structure
 
