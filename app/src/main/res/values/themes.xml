@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.JobtrackerPro" parent="android:Theme.Material.Light.NoActionBar" />
+    
+    <!-- OPTIMIZATION: Splash screen theme for fast cold start -->
+    <!-- This theme is shown immediately while the app initializes -->
+    <style name="Theme.JobtrackerPro.Splash" parent="Theme.SplashScreen">
+        <!-- Set the splash screen background color -->
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <!-- Set the splash screen animated icon -->
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <!-- Set the theme to use after splash screen -->
+        <item name="postSplashScreenTheme">@style/Theme.JobtrackerPro</item>
+    </style>
+</resources>
