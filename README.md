@@ -16,7 +16,7 @@ A modern Android app to track your job applications, built with Jetpack Compose 
 
 💾 **Data Management**
 - Local Room database storage
-- Backup to Google Drive, Google Sheets, Notion, or CSV
+- Backup and import CSV
 - Status history tracking
 
 🎨 **Modern UI**
